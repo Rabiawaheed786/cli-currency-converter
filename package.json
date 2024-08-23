@@ -1,0 +1,24 @@
+{
+  "name": "rabia786_cli-number-guessing-game",
+  "version": "2.0.2",
+  "description": " This is cli base number guessing game",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "rabia786_cli-number-guessing-game": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.23",
+    "rabiawaheed_cli-number-guessing-game": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "keywords": []
+}
